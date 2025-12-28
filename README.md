@@ -3,7 +3,7 @@
 I'm Giulio, an italian **Mathematics** student at the University of Bari with a background in competitive robotics. 
 
 ### 🤖 Robotics & Projects
-> My journey started in high school robotics, and most of the public repos on my account are of a robotics project of some sort. These are my highlights:
+My journey started in high school robotics, and most of the public repos on my account are of a robotics project of some sort. These are my highlights:
 * **[Remate](https://github.com/PabloVro006/Remate)** - Smart-bin able to sort autonomously multiple waste at a time
 * **[Taekwondo TS](https://github.com/Gyzmoooo/Taekwondo-TS)** - Taekwondo data-taking device to help athletes improve in their fighting
 
