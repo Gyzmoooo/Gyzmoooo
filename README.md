@@ -21,7 +21,7 @@ My goal is to move past being a "user" of models and contribute to frontier-leve
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,numpy,raspberrypi,arduino,vscode,github,latex,pytorch,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,raspberrypi,arduino,vscode,github,latex,pytorch,cpp" />
   </a>
 </p>
 
